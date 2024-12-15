@@ -59,6 +59,7 @@ I am a **Machine Learning enthusiast** with a deep interest in the ever-evolving
 ## <h1>🔖 Highlighted Projects</h1>
 
 ### *NeuroVision* (https://github.com/mahatoankit/NeuroVision)
+---
 - 🔗 **Description:** [**NeuroVision** is an AI-powered brain tumor classification system designed to assist in the early detection and diagnosis of brain tumors. It leverages machine learning models to classify tumor types, such as Glioma, Meningioma, and Pituitary Tumors, based on medical imaging like MRI and CT scans. NeuroVision offers a freemium-based service where users can access basic classifications for free, while premium users benefit from advanced features, including higher accuracy and in-depth analysis.].
   
 🚀 **Tech Stack:**
@@ -76,7 +77,8 @@ I am a **Machine Learning enthusiast** with a deep interest in the ever-evolving
 - Matplotlib
 
 ### *SoriFori*
-- 🔗 **Description:** [We developed an ML-based waste-sorting machine that automates the process of sorting waste materials using machine learning models. The system analyzes and categorizes different types of waste, improving the efficiency and accuracy of waste management processes.].
+---
+- 🔗 **Description:** We developed an ML-based waste-sorting machine that automates the process of sorting waste materials using machine learning models. The system analyzes and categorizes different types of waste, improving the efficiency and accuracy of waste management processes.
 - 🚀 **Tech Stack:** ## Technology Components
 
 | **Component**              | **Details**                                                    |
