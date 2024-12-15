@@ -1,6 +1,10 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Ankit Mahato]! 👋
 
-Welcome to my GitHub profile! I am a passionate **[Your Role/Field]**, always eager to learn, build, and contribute to exciting projects. 🚀
+# Welcome to my GitHub profile!
+
+I am a passionate **tech enthusiast**, always eager to learn, build, and contribute to exciting projects. 🚀
+
+I am a **Machine Learning enthusiast** with a deep interest in the ever-evolving world of technology. Constantly exploring new possibilities, I strive to stay at the forefront of advancements and contribute to innovative solutions.
 
 ---
 
@@ -54,32 +58,33 @@ Welcome to my GitHub profile! I am a passionate **[Your Role/Field]**, always ea
 - 🚀 **Tech Stack:** [## Frontend
 - Next.js
 
-## Backend
+#### Backend
 - Flask
 
-## Machine Learning and Data Processing
+#### Machine Learning and Data Processing
 - Python
 - TensorFlow/Keras
 - NumPy
 - Pandas
 - Matplotlib].
 
-### [Project 2 Name](Project 2 GitHub Link)
-- 🔗 **Description:** [Brief Description of Project 2].
-- 🚀 **Tech Stack:** [Tools/Technologies Used].
+### [SoriFori]
+- 🔗 **Description:** [We developed an ML-based waste-sorting machine that automates the process of sorting waste materials using machine learning models. The system analyzes and categorizes different types of waste, improving the efficiency and accuracy of waste management processes.].
+- 🚀 **Tech Stack:** [## Technology Components
+
+| **Component**              | **Details**                                                    |
+|----------------------------|----------------------------------------------------------------|
+| **Programming Language**   | Python                                                         |
+| **Frameworks/Libraries**   | - YOLO (You Only Look Once) for object detection               |
+| **Development Environment**| Jupyter Notebook                                               |
+| **Data Format**            | Images and Videos                                              |
+| **AI/ML Techniques**       | Image recognition and categorization algorithms                |
+| **Version Control**        | Git (GitHub repository)     ].
 
 > Check out more on my [Repositories](https://github.com/yourusername?tab=repositories)!
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 **Hackathon Wins:** [Hackathon Name or Brief Description].
-- 📜 **Certifications:** [Relevant Certifications].
-- 🌟 **Open Source Contributions:** [Mention any notable contributions].
-
----
-
 ## 🔥 Fun Fact
 
-"[A fun or motivational quote that inspires you]."
+"[I'm a coding enthusiast, hackathon participant, and machine learning aficionado, all while balancing my love for philosophical novels, photography, and even resistance training—truly a jack of many trades with a passion for both the digital and physical worlds!]."
