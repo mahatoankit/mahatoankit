@@ -1,4 +1,4 @@
-# Hi there, I'm Ankit Mahato!👋
+<img src="https://github.com/mahatoankit/mahatoankit/blob/main/github-header-image.png?raw=true">
 
 # Welcome to my GitHub profile!
 
