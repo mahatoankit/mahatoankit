@@ -11,8 +11,8 @@ I am a **Machine Learning enthusiast** with a deep interest in the ever-evolving
 ## 🌟 About Me
 
 - 🎓 **Education:** Currently pursuing B.sc in Computer Science and Artificial Intelligence at Sunway College kathmandu in Academic partnership with Birmingham City University, Birmingham, United Kingdom.
-- 🔭 **Currently Working On:** NeuroVision.
-- 🌱 **Learning:** Artificial Intellligence, Machine learning, Blokchain(Fresher).
+- 🔭 **Currently Working On:** NeuroVision(Advanced AI based tumor classification system using CNN).
+- 🌱 **Learning:** Artificial Intellligence, Machine learning, Blockchain(Fresher).
 - 💡 **Interests:** Machine Learning, Web Development, Open Source, BlockChain, Compitative Progarmming.
 - 🤝 **Open for Collaboration:** Projects in AI/ML, Web Development.
 - 🎮 **Hobbies:** Coding, Gaming, Playing Guitar, Reading novelsetc.
