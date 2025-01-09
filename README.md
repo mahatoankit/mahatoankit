@@ -61,7 +61,7 @@ I am a **Machine Learning enthusiast** with a deep interest in the ever-evolving
 
 ### *NeuroVision* (https://github.com/mahatoankit/NeuroVision)
 ---
-- 🔗 **Description:** [**NeuroVision** is an AI-powered brain tumor classification system designed to assist in the early detection and diagnosis of brain tumors. It leverages machine learning models to classify tumor types, such as Glioma, Meningioma, and Pituitary Tumors, based on medical imaging like MRI and CT scans. NeuroVision offers a freemium-based service where users can access basic classifications for free, while premium users benefit from advanced features, including higher accuracy and in-depth analysis.].
+- 🔗 **Description:** **NeuroVision** is an AI-powered brain tumor classification system designed to assist in the early detection and diagnosis of brain tumors. It leverages machine learning models to classify tumor types, such as Glioma, Meningioma, and Pituitary Tumors, based on medical imaging like MRI and CT scans. NeuroVision offers a freemium-based service where users can access basic classifications for free, while premium users benefit from advanced features, including higher accuracy and in-depth analysis.
   
 🚀 **Tech Stack:**
 #### Frontend
