@@ -56,15 +56,15 @@ I am a **Machine Learning enthusiast** with a deep interest in the ever-evolving
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahatoankit&theme=dark&show_icons=true&hide_border=true&count_private=true&card_width=450&height=200" alt="mahatoankit's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahatoankit&theme=dark&show_icons=true&hide_border=true&count_private=true&card_width=600&height=200" alt="mahatoankit's Stats" />
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mahatoankit&theme=dark&card_width=450&height=200&hide_border=true" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mahatoankit&theme=dark&card_width=600&height=200&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahatoankit&theme=dark&show_icons=true&hide_border=true&layout=compact&card_width=450&height=300" alt="mahatoankit's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahatoankit&theme=dark&show_icons=true&hide_border=true&layout=compact&card_width=600&height=300" alt="mahatoankit's Top Languages" />
 </div>
 
 ## <h1>🔖 Highlighted Projects</h1>
