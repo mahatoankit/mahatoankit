@@ -101,7 +101,7 @@ I am a **Machine Learning enthusiast** with a deep interest in the ever-evolving
 | **AI/ML Techniques**       | Image recognition and categorization algorithms                |
 | **Version Control**        | Git (GitHub repository)                                        |
 
-> Check out more on my [Repositories](https://github.com/yourusername?tab=repositories)!
+> Check out more on my [Repositories](https://github.com/mahatoankit?tab=repositories)!
 
 ---
 
