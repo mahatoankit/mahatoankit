@@ -48,11 +48,11 @@ I am a **Machine Learning enthusiast** with a deep interest in the ever-evolving
 
 ## 📈 GitHub Stats
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mahatoankit&theme=dark" alt="mahatoankit" />
-  </a> 
-</p>
+<!-- Center the GitHub Trophies image using HTML -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahatoankit&theme=onedark" alt="GitHub Trophies" />
+</div>
+
 
 ---
 <div align="center">
