@@ -51,11 +51,10 @@ I am a **Machine Learning enthusiast** with a deep interest in the ever-evolving
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahatoankit" alt="mahatoankit" /></a> </p>
 <h3 align="left">Languages and Tools:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahatoankit&show_icons=true&locale=en&layout=compact" alt="mahatoankit" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahatoankit&show_icons=true&locale=en" alt="mahatoankit" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahatoankit&" alt="mahatoankit" /></p>
+---
+![mahatoankit's Stats](https://github-readme-stats.vercel.app/api?username=mahatoankit&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![mahatoankit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahatoankit&theme=dark&show_icons=true&hide_border=true&layout=compact)
+---
 
 ## <h1>🔖 Highlighted Projects</h1>
 
