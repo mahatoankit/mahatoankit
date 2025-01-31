@@ -99,7 +99,7 @@ I am a **Machine Learning enthusiast** with a deep interest in the ever-evolving
 | **Development Environment**| Jupyter Notebook                                               |
 | **Data Format**            | Images and Videos                                              |
 | **AI/ML Techniques**       | Image recognition and categorization algorithms                |
-| **Version Control**        | Git (GitHub repository)                                        |
+| **Version Control**        | Git (Version Control)                                        |
 
 > Check out more on my [Repositories](https://github.com/mahatoankit?tab=repositories)!
 
@@ -107,7 +107,7 @@ I am a **Machine Learning enthusiast** with a deep interest in the ever-evolving
 
 ## 🔥 Fun Fact
 
-"I'm a coding enthusiast, hackathon participant, and machine learning aficionado, all while balancing my love for philosophical novels, photography, and even resistance training—truly a jack of many trades with a passion for both the digital and physical worlds!"
+I'm a coding enthusiast, hackathon participant, and machine learning aficionado, all while balancing my love for philosophical novels, photography, and even resistance training—truly a jack of many trades with a passion for both the digital and physical worlds!
 
 ## I really like music :headphones:
 
