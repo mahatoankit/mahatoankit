@@ -117,3 +117,8 @@ I'm a coding enthusiast, hackathon participant, and machine learning aficionado,
     <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg">
   </a>
 </p>
+<p align="center">
+  <a href="https://readme.andyruwruw.com/api/now-playing?open">
+    <img height="600px" width="550px"src="https://raw.githubusercontent.com/mahatoankit/mahatoankit/refs/heads/main/octocat-1738344159894.png">
+  </a>
+</p>
