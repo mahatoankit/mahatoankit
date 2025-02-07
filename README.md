@@ -82,7 +82,8 @@ I am a **Machine Learning enthusiast** with a deep interest in the ever-evolving
 
 #### Machine Learning and Data Processing
 - Python
-- TensorFlow/Keras
+- TensorFlow
+- PyTorch
 - NumPy
 - Pandas
 - Matplotlib
@@ -90,7 +91,7 @@ I am a **Machine Learning enthusiast** with a deep interest in the ever-evolving
 ### *SoriFori*
 ---
 - 🔗 **Description:** We developed an ML-based waste-sorting machine that automates the process of sorting waste materials using machine learning models. The system analyzes and categorizes different types of waste, improving the efficiency and accuracy of waste management processes.
-- 🚀 **Tech Stack:** ## Technology Components
+- 🚀 **Tech Stack:** Technology Components
 
 | **Component**              | **Details**                                                    |
 |----------------------------|----------------------------------------------------------------|
