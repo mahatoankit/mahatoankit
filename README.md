@@ -19,7 +19,7 @@
 
 <br>
 
-## About Me
+## 🚀 About Me
 
 ```python
 class AnkitMahato:
@@ -40,7 +40,7 @@ me.say_hi()
 
 <br>
 
-## Tech Stack
+## 💻 Tech Stack
 
 <details open>
 <summary><b>🔧 Languages & Frameworks</b></summary>
@@ -56,7 +56,7 @@ me.say_hi()
 </details>
 
 <details open>
-<summary><b> Frontend Development</b></summary>
+<summary><b>⚛️ Frontend Development</b></summary>
 <br>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -67,7 +67,7 @@ me.say_hi()
 </details>
 
 <details open>
-<summary><b> Backend & Database</b></summary>
+<summary><b>🔙 Backend & Database</b></summary>
 <br>
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -76,7 +76,7 @@ me.say_hi()
 </details>
 
 <details open>
-<summary><b> AI/ML & Data Science</b></summary>
+<summary><b>🤖 AI/ML & Data Science</b></summary>
 <br>
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -90,7 +90,7 @@ me.say_hi()
 </details>
 
 <details open>
-<summary><b> Tools & Others</b></summary>
+<summary><b>🛠️ Tools & Others</b></summary>
 <br>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -149,15 +149,11 @@ me.say_hi()
 
 <br>
 
-##  GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahatoankit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats">
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=mahatoankit&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahatoankit&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahatoankit&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages">
 </p>
 
 <p align="center">
@@ -166,7 +162,34 @@ me.say_hi()
 
 <br>
 
-## Competitive Programming
+## 🔥 GitHub Streak Tracking
+
+<p align="center">
+  <img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=mahatoankit&theme=tokyonight&hide_border=true&stroke=0000&background=1A1B27&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahatoankit&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph">
+</p>
+
+<details>
+<summary><b>📈 Streak Milestones</b></summary>
+<br>
+
+| 🎯 Milestone | Status |
+|-------------|--------|
+| 🔥 **7-Day Streak** | Keep going! |
+| ⚡ **30-Day Streak** | Consistency is key! |
+| 💪 **100-Day Streak** | Legend in the making! |
+| 🏆 **365-Day Streak** | Ultimate dedication! |
+
+<p align="center"><em>Every commit counts! Stay consistent and keep building! 💻</em></p>
+
+</details>
+
+<br>
+
+## 🎯 Competitive Programming
 
 <p align="center">
   <a href="https://www.leetcode.com/mahatoankit">
@@ -185,7 +208,7 @@ me.say_hi()
 
 <br>
 
-##  Currently Vibing To
+## 🎵 Currently Vibing To
 
 <p align="center">
   <a href="https://readme.andyruwruw.com/api/now-playing?open">
@@ -195,7 +218,7 @@ me.say_hi()
 
 <br>
 
-## Random Dev Quote
+## 💡 Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
@@ -203,20 +226,18 @@ me.say_hi()
 
 <br>
 
-## Fun Facts
+## 🎨 Fun Facts
 
 ```yaml
 personality:
   traits:
-    - "Machine Learning Aficionado"
-    - "Coding Enthusiast & Hackathon Participant"
-    - "Philosophy & Novel Reader"
-    - "Photography Lover"
-    - "Guitar Player"
-    - "Passionate Gamer"
-    - "Fitness Enthusiast"
-    - "Fan of london Opening"
-    - "Beatboxing Ranomly For Fun"
+    - "🧠 Machine Learning Aficionado"
+    - "💻 Coding Enthusiast & Hackathon Participant"
+    - "📚 Philosophy & Novel Reader"
+    - "📸 Photography Lover"
+    - "🎸 Guitar Player"
+    - "🎮 Passionate Gamer"
+    - "💪 Fitness Enthusiast"
   
   motto: "Jack of many trades, master of continuous learning!"
   
