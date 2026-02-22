@@ -208,7 +208,7 @@ me.say_hi()
 
 <br>
 
-## 🎵 Currently Vibing To
+##  Currently Vibing To
 
 <p align="center">
   <a href="https://readme.andyruwruw.com/api/now-playing?open">
@@ -218,7 +218,7 @@ me.say_hi()
 
 <br>
 
-## 💡 Random Dev Quote
+##  Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
@@ -226,7 +226,7 @@ me.say_hi()
 
 <br>
 
-## 🎨 Fun Facts
+##  Fun Facts
 
 ```yaml
 personality:
@@ -241,7 +241,7 @@ personality:
   
   motto: "Jack of many trades, master of continuous learning!"
   
-  current_mood: "Building cool stuff and pushing boundaries 🚀"
+  current_mood: "Building cool stuff and pushing boundaries "
 ```
 
 <br>
