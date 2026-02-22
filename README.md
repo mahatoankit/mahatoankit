@@ -19,7 +19,7 @@
 
 <br>
 
-## 🚀 About Me
+##  About Me
 
 ```python
 class AnkitMahato:
@@ -56,7 +56,7 @@ me.say_hi()
 </details>
 
 <details open>
-<summary><b>⚛️ Frontend Development</b></summary>
+<summary><b> Frontend Development</b></summary>
 <br>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -67,7 +67,7 @@ me.say_hi()
 </details>
 
 <details open>
-<summary><b>🔙 Backend & Database</b></summary>
+<summary><b> Backend & Database</b></summary>
 <br>
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -76,7 +76,7 @@ me.say_hi()
 </details>
 
 <details open>
-<summary><b>🤖 AI/ML & Data Science</b></summary>
+<summary><b> AI/ML & Data Science</b></summary>
 <br>
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -108,7 +108,7 @@ me.say_hi()
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧠 NeuroVision</h3>
+      <h3 align="center"> NeuroVision</h3>
       <br>
       <p align="center">
         <a href="https://github.com/mahatoankit/NeuroVision">
@@ -173,7 +173,7 @@ me.say_hi()
 </p>
 
 <details>
-<summary><b>📈 Streak Milestones</b></summary>
+<summary><b> Streak Milestones</b></summary>
 <br>
 
 | 🎯 Milestone | Status |
