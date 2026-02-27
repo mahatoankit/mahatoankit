@@ -26,7 +26,7 @@ class AnkitMahato:
     def __init__(self):
         self.education = "B.Sc Computer Science & AI"
         self.university = "Sunway College Kathmandu × Birmingham City University"
-        self.current_project = "NeuroVision - AI Brain Tumor Classification"
+        self.current_project = "MediSync 2026"
         self.learning = ["Machine Learning", "Deep Learning", "Blockchain"]
         self.interests = ["AI/ML", "Web Dev", "Open Source", "Competitive Programming"]
         self.hobbies = ["Coding", "Gaming", "Guitar", "Reading", "Photography"]
