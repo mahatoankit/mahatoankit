@@ -28,8 +28,8 @@ class AnkitMahato:
         self.university = "Sunway College Kathmandu × Birmingham City University"
         self.current_project = "MediSync 2026"
         self.learning = ["Machine Learning", "Deep Learning", "Blockchain"]
-        self.interests = ["AI/ML", "Web Dev", "Open Source", "Competitive Programming"]
-        self.hobbies = ["Coding", "Gaming", "Guitar", "Reading", "Photography"]
+        self.interests = ["AI/ML", "Web Dev", "Open Source", "Competitive Programming", "Mathematics"]
+        self.hobbies = ["Coding", "Gaming", "Guitar", "Reading", "Photography", "Chess", "Guitar"]
         
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together")
