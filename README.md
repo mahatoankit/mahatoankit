@@ -32,7 +32,7 @@ class AnkitMahato:
         self.hobbies = ["Coding", "Gaming", "Guitar", "Reading", "Photography"]
         
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
+        print("Thanks for dropping by! Let's build something amazing together")
 
 me = AnkitMahato()
 me.say_hi()
