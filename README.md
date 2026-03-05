@@ -172,22 +172,6 @@ me.say_hi()
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahatoankit&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph">
 </p>
 
-<details>
-<summary><b> Streak Milestones</b></summary>
-<br>
-
-| 🎯 Milestone | Status |
-|-------------|--------|
-| 🔥 **7-Day Streak** | Keep going! |
-| ⚡ **30-Day Streak** | Consistency is key! |
-| 💪 **100-Day Streak** | Legend in the making! |
-| 🏆 **365-Day Streak** | Ultimate dedication! |
-
-<p align="center"><em>Every commit counts! Stay consistent and keep building! 💻</em></p>
-
-</details>
-
-<br>
 
 ## 🎯 Competitive Programming
 
