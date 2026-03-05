@@ -40,7 +40,7 @@ me.say_hi()
 
 <br>
 
-## 💻 Tech Stack
+## Tech Stack
 
 <details open>
 <summary><b> Languages & Frameworks</b></summary>
@@ -90,7 +90,7 @@ me.say_hi()
 </details>
 
 <details open>
-<summary><b>🛠️ Tools & Others</b></summary>
+<summary><b>Tools & Others</b></summary>
 <br>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -103,7 +103,7 @@ me.say_hi()
 
 <br>
 
-## 🌟 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
@@ -125,7 +125,7 @@ me.say_hi()
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">♻️ SoriFori</h3>
+      <h3 align="center"> SoriFori</h3>
       <br>
       <p align="center">
         <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status">
@@ -162,7 +162,7 @@ me.say_hi()
 
 <br>
 
-## 🔥 GitHub Streak Tracking
+## GitHub Streak Tracking
 
 <p align="center">
   <img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=mahatoankit&theme=tokyonight&hide_border=true&stroke=0000&background=1A1B27&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak Stats">
